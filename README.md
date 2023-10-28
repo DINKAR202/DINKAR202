@@ -1,5 +1,8 @@
+![MasterHead](https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Dinkar Kumar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
+
+<img align="right" alt="coding img" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iMO9VoAfMX50PNPHZNqXyC5YxVPolYEMxg&usqp=CAU">
 
 - 🌱 I’m currently learning **React Native.**
 
@@ -10,7 +13,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RL9nksU8yhv6yd_CjOWeQThKBDgpvxyn/view](https://drive.google.com/file/d/1RL9nksU8yhv6yd_CjOWeQThKBDgpvxyn/view)
 
 <h3 align="left">Connect with me:</h3>
-<p align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dinkar-kumar-pri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinkar-kumar-pri/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/dinkar7079" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dinkar7079" height="30" width="40" /></a>
 </p>
