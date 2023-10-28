@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dinkar202@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RL9nksU8yhv6yd_CjOWeQThKBDgpvxyn/view](https://drive.google.com/file/d/1RL9nksU8yhv6yd_CjOWeQThKBDgpvxyn/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RL9nksU8yhv6yd_CjOWeQThKBDgpvxyn/view?usp=sharing](https://drive.google.com/file/d/1RL9nksU8yhv6yd_CjOWeQThKBDgpvxyn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
