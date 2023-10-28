@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![MasterHead](https://www.worklage.com/wp-content/uploads/2021/09/epv55hgtsfi8csprpj9u.jpeg)
 <h1 align="center">Hi 👋, I'm Dinkar Kumar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
