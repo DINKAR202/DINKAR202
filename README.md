@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **dinkar202@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/196wlNvIMmowoM3zdlsonKroIGDFlYTSS/view?usp=sharing](https://drive.google.com/file/d/196wlNvIMmowoM3zdlsonKroIGDFlYTSS/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tZhRb3VWBrfBdIw0ez5DYDGU9QSiDRJ5/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny.**
 
