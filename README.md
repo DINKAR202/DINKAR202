@@ -1,6 +1,6 @@
 ![MasterHead](https://www.worklage.com/wp-content/uploads/2021/09/epv55hgtsfi8csprpj9u.jpeg)
 <h1 align="center">Hi 👋, I'm Dinkar Kumar</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
 
 <img align="right" alt="coding img" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iMO9VoAfMX50PNPHZNqXyC5YxVPolYEMxg&usqp=CAU">
 
