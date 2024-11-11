@@ -15,6 +15,8 @@
 - 👯 I’m looking to collaborate on **Dynamic team**
 
 - 👨‍💻 All of my projects are available at [https://dinkarportfolio.netlify.app/](https://dinkarportfolio.netlify.app/)
+  
+- 👨‍💻 Please browse our general blog sites once at [https://www.zeonslot.online/](https://www.zeonslot.online/)
 
 - 💬 Ask me about **React, Node, Mongodb, Express, etc..**
 
