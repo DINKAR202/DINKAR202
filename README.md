@@ -5,7 +5,7 @@
 <img align="right" alt="coding img" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iMO9VoAfMX50PNPHZNqXyC5YxVPolYEMxg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkar202&label=Profile%20views&color=0e75b6&style=flat" alt="dinkar202" /> </p>
-- 👨‍💻 Please browse our general blog sites once at [https://www.zeonslot.online/](https://www.zeonslot.online/)
+- 👨‍💻 Please browse our general blog sites once at (https://www.zeonslot.online/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinkar202" alt="dinkar202" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/027dinkar" target="blank"><img src="https://img.shields.io/twitter/follow/027dinkar?logo=twitter&style=for-the-badge" alt="027dinkar" /></a> </p>
